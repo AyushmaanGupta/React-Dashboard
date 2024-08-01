@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #ff1b1b;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-logo span {
+  margin-left: 10px;
+}
+
+.navbar-menu a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
